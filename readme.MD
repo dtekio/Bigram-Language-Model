@@ -5,7 +5,12 @@ python flask numpy random matplotlib language-model bigram-model
 ### **User**
 Generate function (https://dtekio.pythonanywhere.com/) - allows you to generate a name;
 
+![Name Generation image](function.png "Name Generation")
+
+
 Get a table (https://dtekio.pythonanywhere.com/bigram_table) - allows you to get table visualizing probabilities of bigrams
+
+![Probabilities table image](bigram_table.png "Probabilities table")
 
 ### **Functionality**
 A letter bigram is a pair of letters that stand side by side in a word. For example, in the word "cat," the bigrams are "^k," "co," "from," and "t$" (^ and $ are the beginning and end of the word.)
