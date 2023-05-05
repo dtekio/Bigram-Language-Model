@@ -16,5 +16,6 @@ Take a letter from the sample that may come as the first letter of the name (ran
 Continue pulling the next letter from the sample, thus generating the name. This should be done until you pull the end of the name.
 
 ### **User**
-Generate function - allows you to generate a name. (https://dtekio.pythonanywhere.com/);
-Get a table visualizing probabilities of bigrams (https://dtekio.pythonanywhere.com/bigram_table)
+Generate function (https://dtekio.pythonanywhere.com/) - allows you to generate a name;
+
+Get a table (https://dtekio.pythonanywhere.com/bigram_table) - allows you to get table visualizing probabilities of bigrams
