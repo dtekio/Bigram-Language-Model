@@ -101,4 +101,4 @@ def generate_name():
     return jsonify(generated_name=name[:-1].title())
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run()
